@@ -1,0 +1,47 @@
+Inspiracje (słowa, skojarzenia, pomysły):
+- minimalizm
+- zrównoważony rozwój
+- personalizacja
+- lokalność
+- dostępność (accessibility)
+- gamifikacja
+- automatyzacja rutynowych zadań
+- społeczność / współdzielenie
+- edukacja mikro-nawyków
+- integracja z urządzeniami mobilnymi
+
+Krótka lista elementów projektów:
+1. Cel i zakres projektu
+2. Lista kluczowych funkcji (MVP)
+3. Flow użytkownika / scenariusze użycia
+4. Mockupy ekranów i prototypy
+5. Schemat danych / baza danych
+6. API / integracje zewnętrzne
+7. Plan testów użytkowników
+8. Materiały marketingowe i onboarding
+
+Wstępne dane wejściowe:
+- Kategorie przykładowe:
+    - Edukacja, Zdrowie, Finanse, Rozrywka, Usługi lokalne, E-commerce
+- Lista funkcji (przykładowa):
+    - Rejestracja / logowanie (email, social)
+    - Profil użytkownika i personalizacja
+    - Wyszukiwanie i filtrowanie wyników
+    - Powiadomienia (email, push)
+    - System ocen i opinii
+    - Płatności i subskrypcje
+    - Eksport/import danych
+    - Raporty i analityka
+
+Lista źródeł pomysłu:
+- Własna potrzeba / codzienny problem
+- Znajomy / rozmowa z użytkownikiem
+- Przypadek / obserwacja w terenie
+- Trendy w mediach społecznościowych
+- Analiza konkurencji / benchmarking
+- Wyniki badań użytkowników / ankiety
+- Pomysł powstały podczas hackathonu / warsztatów
+
+Dodatkowe notatki (krótkie):
+- Priorytetyzuj funkcje według wartości dla użytkownika i kosztu implementacji.
+- Zbierz szybkie feedbacki od 3–5 potencjalnych użytkowników przed prototypowaniem.

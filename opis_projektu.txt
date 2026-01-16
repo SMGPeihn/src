@@ -1,0 +1,4 @@
+Projekt dotyczy aplikacji pomagającej studentom planować naukę. 
+Rozwiązuje problem braku struktury i przeładowania informacjami podczas studiów.
+Odbiorcami są osoby w wieku 18–25 lat, które chcą lepiej organizować zadania i zarządzać czasem. 
+Funkcjonalności obejmują listę zadań (priorytety, terminy), kalendarz tygodniowy do planowania zajęć i nauki oraz proste statystyki pokazujące postęp i czas poświęcony na zadania.

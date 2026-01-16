@@ -1,0 +1,28 @@
+Student
+  O
+  |
+  v
+  +------------------------------------------------+
+  |           Aplikacja: Planer nauki              |
+  |------------------------------------------------|
+  |  Zarządzanie zadaniami:                        |
+  |    (Dodaj zadanie)                             |
+  |    (Edytuj zadanie)                            |
+  |    (Usuń zadanie)                              |
+  |    (Oznacz jako wykonane)                      |
+  |    (Ustal priorytet)                           |
+  |    (Filtruj / sortuj zadania)                  |
+  |                                                |
+  |  Planowanie / Kalendarz:                       |
+  |    (Przeglądaj kalendarz tygodniowy)           |
+  |    (Zaplanuj sesję nauki)                      |
+  |    (Ustaw przypomnienie)                       |
+  |                                                |
+  |  Statystyki i raporty:                         |
+  |    (Przeglądaj proste statystyki)              |
+  |    (Eksportuj / udostępnij raport)             |
+  +------------------------------------------------+
+
+Legenda:
+O = aktor (Student)
+( ... ) = przypadek użycia
